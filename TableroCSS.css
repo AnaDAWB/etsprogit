@@ -1,0 +1,31 @@
+
+td{
+ height:50px;
+ width: 50px;
+ border:2px ridge;
+ border-collapse: collapse;
+ }
+
+ table {
+ border-collapse: collapse;
+ border:2px ridge;
+ border-color: black;
+ border-spacing: 0px;
+ 
+ }
+ 
+ 
+ 
+.a{
+font-size: xx-large;
+text-align: center;
+font-weight: bold;
+background-color: #4E4C6F;
+}
+
+.b{
+text-align: center;
+font-weight: bold;
+font-size: xx-large;
+background-color: white;
+}
